@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <h1>Hi, I'm Kelsey, an <a href="https://linkedin.com/in/kelsey">IT Professional</a>☺</h1>
-
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b> Virtual Privarte Network</b>
